@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section01 .logo img{
+    width: 150px;
+    height: 150px;
+}
+.section01 .nav{
+    display: flex;
+   
+}
+.section01 .list{
+    margin-top: 30px;
+    border-left: 1px solid black;
+    padding-left: 10px;
+}
+.section01 .list .list1{
+    color: blue;
+}
+.section01 .nav ul li{
+    list-style: none;
+    margin-top: 20px;
+    
+}
+
+.section02 .lists01{
+    float: right;
+    margin-right: 10px;
+}
+.section02 .lists01 ul li{
+    list-style: none;
+    padding-top: 10px;
+    font-size: 18px;
+}
+.section03 .title{
+    margin-top: 12%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.section03 .box{
+    display: flex;
+    margin-top: 20px;
+    margin-left: 10px;
+   
+}
+.section03 .namelist{
+    padding-top: 10px;
+}
+.section03 .box1{
+    width: 50%;
+}
+.section03 .box1 .title2{
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.section03 .box1 .details{
+    padding-bottom: 10px;
+}
+.section03 .box span{
+    font-weight: bold;
+}
+.section03 .box2{
+    width: 50%;
+
+    
+}
+.section03{
+    border-bottom: 1px solid gray;
+}
+
+
+.section03 .box2 .details{
+    padding-top: 10px;
+}
+.section03 .box2 .details ul li{
+    padding-bottom: 10px;
+    display: inline;
+
+    padding-left: 30px;
+    padding-top: 10px;
+}
+.section03 .box2 .text{
+    font-size: 20px;
+    font-weight: bold;
+}
+.section03 .box2 .details2 ul li{
+    list-style: none;
+    padding-left: 100px;
+
+}
+.section03 .box2 .details2{
+    padding-top: 20px;
+}
+.section03 .text2{
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.section03 .text3 {
+    padding-top: 20px;
+}
+
+.section03 .text3 ul li{
+    list-style: none;
+    display: inline;
+    
+}
+footer .text{
+    padding-top: 10px;
+}
+
